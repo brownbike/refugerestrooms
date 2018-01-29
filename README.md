@@ -18,8 +18,14 @@ Production: [Link](http://www.refugerestrooms.org)
 Staging: [Link](http://staging.refugerestrooms.org)
 
 ## Contributing
+For more information on how the technology powering Refuge Restrooms works, 
+or how to get started from scratch, 
+see the [Wiki](https://github.com/RefugeRestrooms/refugerestrooms/wiki).
 
-Changes to the site can be tested locally before deploying to the web. To get set up to edit the site and test your changes, see [`CONTRIBUTING.md`](https://github.com/RefugeRestrooms/refugerestrooms/blob/develop/CONTRIBUTING.md).
+If you just want to get your environment setup 
+for making changes locally and testing, 
+you can head directly to the 
+[`CONTRIBUTING.md`](https://github.com/RefugeRestrooms/refugerestrooms/blob/develop/CONTRIBUTING.md).
 
 ## Tech
 
